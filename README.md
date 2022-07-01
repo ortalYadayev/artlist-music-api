@@ -1,4 +1,4 @@
-# API
+# Artlist Music - API
 
 ## Required software
 
